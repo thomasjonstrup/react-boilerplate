@@ -25,6 +25,8 @@
 		"indent": ["error", "tab"],
 		"linebreak-style": ["error", "windows"],
 		"quotes": ["error", "single"],
-		"semi": ["error", "always"]
+		"semi": ["error", "always"],
+		"react/jsx-uses-react": "error",
+		"react/jsx-uses-vars": "error"
 	}
 }
